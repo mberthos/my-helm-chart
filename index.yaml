@@ -1,0 +1,41 @@
+apiVersion: v1
+entries:
+  app1:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2021-04-07T12:54:26.763878769-03:00"
+    description: A Helm chart for Kubernetes
+    digest: a4e8e8ae8fa9fdf72705077463c9fe73d29ce13d6dc382a73287c925f0725062
+    name: app1
+    urls:
+    - https://mberthos.github.io/my-helm-chart/app1-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2021-04-07T12:54:26.764685638-03:00"
+    description: A Helm chart for Kubernetes
+    digest: 6b5b7a57a7a48ee661058bac7acb02cdcf9e8e709fce95eccd763ea19af58999
+    name: app1
+    urls:
+    - https://mberthos.github.io/my-helm-chart/.deploy/app1-0.1.0.tgz
+    version: 0.1.0
+  app2:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2021-04-07T12:54:26.764095337-03:00"
+    description: A Helm chart for Kubernetes
+    digest: 27d54663117ae6ea83ad197833468b94ae6f95862153c1c62e383fd75a293daa
+    name: app2
+    urls:
+    - https://mberthos.github.io/my-helm-chart/app2-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2021-04-07T12:54:26.764986141-03:00"
+    description: A Helm chart for Kubernetes
+    digest: a07ca527bfb3171f055df1dd082c70613cee38509ae35d4abb1d291d46f456a4
+    name: app2
+    urls:
+    - https://mberthos.github.io/my-helm-chart/.deploy/app2-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-04-07T12:54:26.763526918-03:00"
